@@ -1,4 +1,4 @@
-USE first_db;
+USE firstdb;
 
 CREATE TABLE assignment4 (
     id INT PRIMARY KEY,
